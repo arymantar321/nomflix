@@ -7,8 +7,6 @@ import Loader from "../../Components/Loader";
 import Message from "../../Components/Message";
 import Poster from "../../Components/Poster";
 
-console.log("a");
-
 const Container = styled.div`
   padding: 20px;
 `;
