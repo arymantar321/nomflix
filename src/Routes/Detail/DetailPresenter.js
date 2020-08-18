@@ -4,8 +4,6 @@ import styled from "styled-components";
 import Helmet from "react-helmet";
 import Loader from "../../Components/Loader";
 
-console.log("a");
-
 const Container = styled.div`
   height: calc(100vh - 50px);
   width: 100%;
